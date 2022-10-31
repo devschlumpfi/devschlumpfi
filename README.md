@@ -12,7 +12,7 @@
   
 <br/>
 
-##  [Best Bot Shop💪](https://milrato.dev) | [Best Clan](https://discord.gg/team-mind)
+##  [Best Minecraft](https://discord.gg/XXBgH2DeFJ) | [Best Bot](https://discord.gg/devsharky)
 
 ## SUPPORT ME? 👻
 
