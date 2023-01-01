@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm leonx74</h1>
 <h3 align="center">A Verify Bot developer from Germany 🇩🇪</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devleonx74&label=Profile%20views&color=0e75b6&style=flat" alt="devleonx74" /> </p>
-
 - 🔭 I’m currently working on [Sharky](https://discord.com/api/oauth2/authorize?client_id=967537961929412638&permissions=8&scope=bot%20applications.commands)
 
 - 🌱 I’m currently learning **go**
