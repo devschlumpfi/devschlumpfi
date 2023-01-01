@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devleonx74&label=Profile%20views&color=0e75b6&style=flat" alt="devleonx74" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devleonx74" alt="devleonx74" /></a> </p>
-
 - 🔭 I’m currently working on [Sharky](https://discord.com/api/oauth2/authorize?client_id=967537961929412638&permissions=8&scope=bot%20applications.commands)
 
 - 🌱 I’m currently learning **go**
