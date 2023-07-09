@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Schlumpfi</h1>
 <h3 align="center">A Verify Bot developer from Germany 🇩🇪</h3>
 
-- 🔭 I’m currently working on [Sharky](https://discord.com/api/oauth2/authorize?client_id=967537961929412638&permissions=8&scope=bot%20applications.commands)
+- 🔭 I’m currently working on Mind Dashboard
 
 - 🌱 I’m currently learning **go**
 
-- 👨‍💻 Source code of sharky on discord [https://discord.gg/devsharky](https://discord.gg/devsharky)
+- 💬 Ask me about **all**
 
-- 💬 Ask me about **javascript, Python, html**
-
-- 📫 How to reach me **Sharky Discord**
+- 📫 How to reach me **Discord: devschlumpfi**
 
 - ⚡ Fun fact **I think I am good in all! <3**
 
