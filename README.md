@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm leonx74</h1>
+<h1 align="center">Hi 👋, I'm Schlumpfi</h1>
 <h3 align="center">A Verify Bot developer from Germany 🇩🇪</h3>
 
 - 🔭 I’m currently working on [Sharky](https://discord.com/api/oauth2/authorize?client_id=967537961929412638&permissions=8&scope=bot%20applications.commands)
 
 - 🌱 I’m currently learning **go**
-
-- 👯 I’m looking to collaborate on [Sharky Dev](https://discord.gg/devsharky)
-
-- 🤝 I’m looking for help with [Sharky Discord Bot](https://discord.com/api/oauth2/authorize?client_id=967537961929412638&permissions=8&scope=bot%20applications.commands)
 
 - 👨‍💻 Source code of sharky on discord [https://discord.gg/devsharky](https://discord.gg/devsharky)
 
