@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Schlumpfi</h1>
-<h3 align="center">A Verify Bot developer from Germany 🇩🇪</h3>
+<h3 align="center">A Bot developer from Germany 🇩🇪</h3>
 
 - 🔭 I’m currently working on Mind Dashboard
 
