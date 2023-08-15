@@ -4,19 +4,19 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Discord--Anwendungsentwickler-8A2BE2" alt="shields"></p>
 <div align="center">
-- 🔭 Discord Anwendungs-Entwickler und leidenschaftlicher Software-Entwickler.
+🔭 × Discord Anwendungs-Entwickler und leidenschaftlicher Software-Entwickler.
 </div>
 <div align="center">
-- 🌱 Immer auf der Suche nach innovativen Lösungen und spannenden Projekten.
+🌱 × Immer auf der Suche nach innovativen Lösungen und spannenden Projekten.
 </div>
 <div align="center">
-- 👨‍👨‍👧 Strebe kontinuierliche Weiterentwicklung und Verbesserung meiner Fähigkeiten an.
+👨‍👨‍👧 × Strebe kontinuierliche Weiterentwicklung und Verbesserung meiner Fähigkeiten an.
 </div>
 <div align="center">
-- 🤔 Begeisterung für qualitativ hochwertige Software und überwinden von Herausforderungen.
+🤔 × Begeisterung für qualitativ hochwertige Software und überwinden von Herausforderungen.
 </div>
 <div align="center">
-- ❓ Erreiche mich auf Discord unter devschlumpfi.
+❓× Erreiche mich auf Discord unter devschlumpfi.
 </div>
 
 
