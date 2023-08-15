@@ -13,7 +13,7 @@
 👨‍👨‍👧 × Strebe kontinuierliche Weiterentwicklung und Verbesserung meiner Fähigkeiten an.
 </div>
 <div align="center">
-🤔 × Begeisterung für qualitativ hochwertige Software und überwinden von Herausforderungen.
+🤔 × Begeisterung für qualitativ hochwertige Source Codes und überwinden von Herausforderungen.
 </div>
 <div align="center">
 ❓× Erreiche mich auf Discord unter devschlumpfi.
