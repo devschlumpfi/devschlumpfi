@@ -4,15 +4,12 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Discord--Anwendungsentwickler-8A2BE2" alt="shields"></p>
 
-- 🔭 I’m currently working on Mind Dashboard
+- 🔭 Discord Anwendungs-Entwickler und leidenschaftlicher Software-Entwickler.
+- 🌱 Immer auf der Suche nach innovativen Lösungen und spannenden Projekten.
+- 👨‍👨‍👧 Strebe kontinuierliche Weiterentwicklung und Verbesserung meiner Fähigkeiten an.
+- 🤔 Begeisterung für qualitativ hochwertige Software und überwinden von Herausforderungen.
+- ❓ Erreiche mich auf Discord unter devschlumpfi.
 
-- 🌱 I’m currently learning **go**
-
-- 💬 Ask me about **all**
-
-- 📫 How to reach me **Discord: devschlumpfi**
-
-- ⚡ Fun fact **I think I am good in all! <3**
 
 ![](https://github-readme-stats.vercel.app/api?username=devschlumpfi&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devschlumpfi&theme=ayu-mirage&hide_border=false)<br/>
