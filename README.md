@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Discord--Anwendungsentwickler-8A2BE2" alt="shields"></p>
 <div align="center">
-🔭 × Discord Anwendungs-Entwickler und leidenschaftlicher Software-Entwickler.
+🔭 × Discord Anwendungs-Entwickler und leidenschaftlicher Hobby-Entwickler.
 </div>
 <div align="center">
 🌱 × Immer auf der Suche nach innovativen Lösungen und spannenden Projekten.
