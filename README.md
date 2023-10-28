@@ -1,7 +1,5 @@
 <h1 align="center" id="title">Schlumpfi × Entwickler</h1>
 
-<p align="center"><img src="https://images-ext-1.discordapp.net/external/Gpkm5PZJ8pmcCB-mx0zfMITXW-Dz_eZiURFq20auyb8/https/cdn.discordapp.com/avatars/1103554104690741310/ba00c430d4096c4302eb473fd8401081.webp" alt="project-image"></p>
-
 <p align="center"><img src="https://img.shields.io/badge/Discord--Anwendungsentwickler-8A2BE2" alt="shields"></p>
 <div align="center">
 🔭 × Discord Anwendungs-Entwickler und leidenschaftlicher Hobby-Entwickler.
